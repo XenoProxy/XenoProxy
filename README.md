@@ -5,6 +5,8 @@
 
 [![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
+
+<a href=http://www.sql-ex.ru/users_page.php?uid=742210><img src=http://www.sql-ex.ru/images/rate_btn/image.php?id=742210&ban=5 alt='SQL Exercises Rank'></a>
 <!--
 **XenoProxy/XenoProxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
