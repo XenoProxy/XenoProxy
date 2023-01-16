@@ -9,6 +9,9 @@
 
 My current stack:
 ![pocoo_flask_src_logo_icon_168043](https://user-images.githubusercontent.com/44860152/212622940-230953db-38b8-442b-ae60-18c58bac8765.png)
+![python_18894](https://user-images.githubusercontent.com/44860152/212623090-420c09dd-f1fc-4877-b51d-352221329fcb.png)
+![php_icon_130857](https://user-images.githubusercontent.com/44860152/212623094-0855507b-82dd-4971-b2d1-f26fa8d57e45.png)
+![file_type_django_icon_130645](https://user-images.githubusercontent.com/44860152/212623095-a9573b47-e133-4eb0-b099-3b7e1b57fadd.png)
 
 
 
