@@ -8,7 +8,7 @@
 [![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
 My current stack:
-<img src="https://user-images.githubusercontent.com/44860152/212621506-7419bc2c-556c-4050-bcb7-95ce21b9167d.svg" width="50" />
+<img src="https://user-images.githubusercontent.com/44860152/212622940-230953db-38b8-442b-ae60-18c58bac8765.png" width="50" />
 <img src="https://user-images.githubusercontent.com/44860152/212621510-95c8ba32-d572-48b4-a863-fb8b174d971b.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/44860152/212621511-64f5bfb7-e7bc-4e05-96fc-bee8c8c6f1ed.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/44860152/212621512-578b968b-189f-41cd-ae7c-460fd323f2e6.svg" width="50" />
@@ -16,6 +16,7 @@ My current stack:
 <img src="https://user-images.githubusercontent.com/44860152/212621516-b6626857-5bb7-4924-9f51-4da321f571ba.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/44860152/212621520-d9163f9c-3696-477b-bbd9-094644d021b6.svg" width="50" />
 <img src="https://user-images.githubusercontent.com/44860152/212621523-29e3afc1-88fb-4fbe-8fa2-1d3deedda803.svg" width="50" />
+![pocoo_flask_src_logo_icon_168043](https://user-images.githubusercontent.com/44860152/212622940-230953db-38b8-442b-ae60-18c58bac8765.png)
 
 
 
