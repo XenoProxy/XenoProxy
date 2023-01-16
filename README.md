@@ -15,7 +15,9 @@ My current stack:
 ![arduino_official_logo_icon_167833](https://user-images.githubusercontent.com/44860152/212623329-6102d2b3-de28-43bb-9ffb-c54d098aa5c4.png)
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/44860152/212623331-e4308e49-43a4-48fa-9d3d-41a21738956f.png)
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/44860152/212623333-7fcaa6f2-11db-4fd8-859b-483cdc500042.png)
-![redis_original_wordmark_logo_icon_146369](https://user-images.githubusercontent.com/44860152/212624158-13d280da-c218-47bf-8806-b028c5fb745d.png)
+![redis_original_wordmark_logo_icon_146369 (1)](https://user-images.githubusercontent.com/44860152/212624349-10271041-65be-43ac-b135-4236d1b205cd.png)
+![file_type_git_icon_130581](https://user-images.githubusercontent.com/44860152/212624351-33db2df4-b8ad-4eaf-889f-fb43deaa1870.png)
+
 
 
 
