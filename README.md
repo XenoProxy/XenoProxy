@@ -7,14 +7,11 @@
 
 [![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
-My current stack:
+My current stack: <br/>
 ![pocoo_flask_src_logo_icon_168043](https://user-images.githubusercontent.com/44860152/212622940-230953db-38b8-442b-ae60-18c58bac8765.png)
 ![python_18894](https://user-images.githubusercontent.com/44860152/212623090-420c09dd-f1fc-4877-b51d-352221329fcb.png)
 ![php_icon_130857](https://user-images.githubusercontent.com/44860152/212623094-0855507b-82dd-4971-b2d1-f26fa8d57e45.png)
 ![file_type_django_icon_130645](https://user-images.githubusercontent.com/44860152/212623095-a9573b47-e133-4eb0-b099-3b7e1b57fadd.png)
-![arduino_official_logo_icon_167833](https://user-images.githubusercontent.com/44860152/212623329-6102d2b3-de28-43bb-9ffb-c54d098aa5c4.png)
-![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/44860152/212623331-e4308e49-43a4-48fa-9d3d-41a21738956f.png)
-![file_type_html_icon_130541](https://user-images.githubusercontent.com/44860152/212623333-7fcaa6f2-11db-4fd8-859b-483cdc500042.png)
 
 
 
