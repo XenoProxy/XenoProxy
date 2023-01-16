@@ -8,14 +8,14 @@
 [![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
 My current stack:
-![flask](https://user-images.githubusercontent.com/44860152/212621506-7419bc2c-556c-4050-bcb7-95ce21b9167d.svg){width=55 height=55}
-![mysql](https://user-images.githubusercontent.com/44860152/212621510-95c8ba32-d572-48b4-a863-fb8b174d971b.svg){width=55 height=55}
-![python](https://user-images.githubusercontent.com/44860152/212621511-64f5bfb7-e7bc-4e05-96fc-bee8c8c6f1ed.svg){width=55 height=55}
-![jss](https://user-images.githubusercontent.com/44860152/212621512-578b968b-189f-41cd-ae7c-460fd323f2e6.svg){width=55 height=55}
-![php](https://user-images.githubusercontent.com/44860152/212621515-74b22b2c-b637-4313-818d-46917b42087d.svg){width=55 height=55}
-![django](https://user-images.githubusercontent.com/44860152/212621516-b6626857-5bb7-4924-9f51-4da321f571ba.svg){width=55 height=55}
-![css3](https://user-images.githubusercontent.com/44860152/212621520-d9163f9c-3696-477b-bbd9-094644d021b6.svg){width=55 height=55}
-![html5](https://user-images.githubusercontent.com/44860152/212621523-29e3afc1-88fb-4fbe-8fa2-1d3deedda803.svg){width=55 height=55}
+<img src="https://user-images.githubusercontent.com/44860152/212621506-7419bc2c-556c-4050-bcb7-95ce21b9167d.svg" width="200" />
+![mysql](https://user-images.githubusercontent.com/44860152/212621510-95c8ba32-d572-48b4-a863-fb8b174d971b.svg)
+![python](https://user-images.githubusercontent.com/44860152/212621511-64f5bfb7-e7bc-4e05-96fc-bee8c8c6f1ed.svg)
+![jss](https://user-images.githubusercontent.com/44860152/212621512-578b968b-189f-41cd-ae7c-460fd323f2e6.svg)
+![php](https://user-images.githubusercontent.com/44860152/212621515-74b22b2c-b637-4313-818d-46917b42087d.svg)
+![django](https://user-images.githubusercontent.com/44860152/212621516-b6626857-5bb7-4924-9f51-4da321f571ba.svg)
+![css3](https://user-images.githubusercontent.com/44860152/212621520-d9163f9c-3696-477b-bbd9-094644d021b6.svg)
+![html5](https://user-images.githubusercontent.com/44860152/212621523-29e3afc1-88fb-4fbe-8fa2-1d3deedda803.svg)
 
 
 
