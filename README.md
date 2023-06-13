@@ -18,6 +18,7 @@ My current stack: </br></br>
 ![file_type_git_icon_130581](https://user-images.githubusercontent.com/44860152/212624351-33db2df4-b8ad-4eaf-889f-fb43deaa1870.png)
 ![arduino_logo_icon_170518](https://user-images.githubusercontent.com/44860152/212624645-8e0b8389-e97e-471a-8114-d22016432a25.png)
 ![laravel_logo_icon_145117](https://github.com/XenoProxy/XenoProxy/assets/44860152/eed6525b-430e-405d-8b6c-a55827d3cd1f)
+![file_type_js_official_icon_130509](https://github.com/XenoProxy/XenoProxy/assets/44860152/048b2262-1fad-4ecf-9c2d-72c5cb6cf9dc)
 
 
 
