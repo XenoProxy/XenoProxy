@@ -19,6 +19,7 @@ My current stack: </br></br>
 ![laravel_logo_icon_145117](https://github.com/XenoProxy/XenoProxy/assets/44860152/eed6525b-430e-405d-8b6c-a55827d3cd1f)
 ![file_type_js_official_icon_130509](https://github.com/XenoProxy/XenoProxy/assets/44860152/048b2262-1fad-4ecf-9c2d-72c5cb6cf9dc)
 ![jquery_original_wordmark_logo_icon_146447](https://github.com/XenoProxy/XenoProxy/assets/44860152/b44fd717-a1c0-42b5-bcd1-b6f3bf75b273)
+![Simpleicons-Team-Simple-Livewire](https://github.com/XenoProxy/XenoProxy/assets/44860152/08ad9548-7c66-4a79-b362-6c0dfe94dc4f)
 
 
 
