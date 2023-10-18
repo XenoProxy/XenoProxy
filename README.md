@@ -1,6 +1,6 @@
 ## Hi there, My name is Irina 👋 and I'm 22 years old.
 
-### I am a junior PHP developer (Laravel) and I'm actively studying front-end (JavaScript, Vue.js, CSS, etc.)
+### I am PHP developer (Laravel) and I'm actively studying front-end (JavaScript, Vue.js, CSS, etc.)
 
 
 
