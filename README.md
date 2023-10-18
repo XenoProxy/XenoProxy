@@ -11,8 +11,8 @@
 [![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
 
-## My current stack:
-</br>
+## My current stack:</br>
+
 ![pocoo_flask_src_logo_icon_168043](https://user-images.githubusercontent.com/44860152/212622940-230953db-38b8-442b-ae60-18c58bac8765.png)
 ![python_18894](https://user-images.githubusercontent.com/44860152/212623090-420c09dd-f1fc-4877-b51d-352221329fcb.png)
 ![php_icon_130857](https://user-images.githubusercontent.com/44860152/212623094-0855507b-82dd-4971-b2d1-f26fa8d57e45.png)
