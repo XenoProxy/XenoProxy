@@ -1,6 +1,6 @@
 ### Hi there, My name is Irina 👋 and I'm 22 years old.
+### I am a junior PHP developer (Laravel) and I'm actively studying front-end (JavaScript, Vue.js, CSS, etc.)
 
-I am a junior PHP developer (Laravel) and I'm actively studying front-end (JavaScript, Vue.js, CSS, etc.)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenoproxy&theme=radical&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
