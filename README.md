@@ -27,7 +27,7 @@
 ![Simpleicons-Team-Simple-Livewire 64](https://github.com/XenoProxy/XenoProxy/assets/44860152/8ffa8599-9cd5-4010-8902-65425ff4cce5)
 ![Vue js_Logo_2 svg (1)](https://github.com/XenoProxy/XenoProxy/assets/44860152/6ab31d54-25ab-4a0a-831a-f91f69183f6e)
 ![sql-server (1)](https://github.com/XenoProxy/XenoProxy/assets/44860152/f3fed209-f3bf-4e64-b353-c5bbe917b5c6)
-![postgresql_logo_icon_170836 (1)](https://github.com/XenoProxy/XenoProxy/assets/44860152/a60cf91e-0667-48b5-ba50-481b46bb0eb9)
+![postgresql_logo_icon_170836 (2)](https://github.com/XenoProxy/XenoProxy/assets/44860152/ff517a4a-8ae2-4d97-a39f-212009fbd96c)
 
 
 
