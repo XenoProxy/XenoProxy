@@ -1,4 +1,4 @@
-## Hi there, My name is Irina! 👋
+![postgresql_logo_icon_170836](https://github.com/XenoProxy/XenoProxy/assets/44860152/c0c66175-3ac8-4934-a66a-82158415a47d)## Hi there, My name is Irina! 👋
 
 ### I am PHP developer (Laravel) and I'm actively studying front-end (JavaScript, Vue.js, CSS, etc.)
 
@@ -27,6 +27,7 @@
 ![Simpleicons-Team-Simple-Livewire 64](https://github.com/XenoProxy/XenoProxy/assets/44860152/8ffa8599-9cd5-4010-8902-65425ff4cce5)
 ![Vue js_Logo_2 svg (1)](https://github.com/XenoProxy/XenoProxy/assets/44860152/6ab31d54-25ab-4a0a-831a-f91f69183f6e)
 ![sql-server (1)](https://github.com/XenoProxy/XenoProxy/assets/44860152/f3fed209-f3bf-4e64-b353-c5bbe917b5c6)
+![postgresql_logo_icon_170836](https://github.com/XenoProxy/XenoProxy/assets/44860152/e3f6ac13-d142-4f87-8fc7-f42b13475f07)
 
 
 
