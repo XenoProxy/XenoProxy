@@ -1,4 +1,4 @@
-![postgresql_logo_icon_170836](https://github.com/XenoProxy/XenoProxy/assets/44860152/c0c66175-3ac8-4934-a66a-82158415a47d)## Hi there, My name is Irina! 👋
+## Hi there, My name is Irina! 👋
 
 ### I am PHP developer (Laravel) and I'm actively studying front-end (JavaScript, Vue.js, CSS, etc.)
 
