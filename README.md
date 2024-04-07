@@ -27,7 +27,8 @@
 ![file_type_js_official_icon_130509](https://github.com/XenoProxy/XenoProxy/assets/44860152/048b2262-1fad-4ecf-9c2d-72c5cb6cf9dc)
 ![jquery_original_wordmark_logo_icon_146447](https://github.com/XenoProxy/XenoProxy/assets/44860152/b44fd717-a1c0-42b5-bcd1-b6f3bf75b273)
 ![Simpleicons-Team-Simple-Livewire 64](https://github.com/XenoProxy/XenoProxy/assets/44860152/8ffa8599-9cd5-4010-8902-65425ff4cce5)
-![Vue js_Logo_2 svg](https://github.com/XenoProxy/XenoProxy/assets/44860152/294ea485-ad1c-4163-9d99-24ae8fdc823b)
+![Vue js_Logo_2 svg (1)](https://github.com/XenoProxy/XenoProxy/assets/44860152/6ab31d54-25ab-4a0a-831a-f91f69183f6e)
+
 
 
 
