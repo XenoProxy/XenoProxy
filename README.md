@@ -1,4 +1,4 @@
-## Hi there, My name is Irina! 👋
+## Hi there, My name is Iryna! 👋
 
 ### I am PHP developer (Laravel) and I'm actively studying front-end (JavaScript, Vue.js, CSS, etc.)
 
