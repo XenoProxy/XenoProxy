@@ -17,7 +17,6 @@
 ## My current stack:</br>
 
 ![php_icon_130857](https://user-images.githubusercontent.com/44860152/212623094-0855507b-82dd-4971-b2d1-f26fa8d57e45.png)
-![file_type_django_icon_130645](https://user-images.githubusercontent.com/44860152/212623095-a9573b47-e133-4eb0-b099-3b7e1b57fadd.png)
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/44860152/212623331-e4308e49-43a4-48fa-9d3d-41a21738956f.png)
 ![file_type_git_icon_130581](https://user-images.githubusercontent.com/44860152/212624351-33db2df4-b8ad-4eaf-889f-fb43deaa1870.png)
 ![arduino_logo_icon_170518](https://user-images.githubusercontent.com/44860152/212624645-8e0b8389-e97e-471a-8114-d22016432a25.png)
