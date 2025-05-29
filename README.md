@@ -35,17 +35,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/-AJAX-00599C?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white)
 
-![php_icon_130857](https://user-images.githubusercontent.com/44860152/212623094-0855507b-82dd-4971-b2d1-f26fa8d57e45.png)
-![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/44860152/212623331-e4308e49-43a4-48fa-9d3d-41a21738956f.png)
-![file_type_git_icon_130581](https://user-images.githubusercontent.com/44860152/212624351-33db2df4-b8ad-4eaf-889f-fb43deaa1870.png)
-![arduino_logo_icon_170518](https://user-images.githubusercontent.com/44860152/212624645-8e0b8389-e97e-471a-8114-d22016432a25.png)
-![laravel_logo_icon_145117](https://github.com/XenoProxy/XenoProxy/assets/44860152/eed6525b-430e-405d-8b6c-a55827d3cd1f)
-![file_type_js_official_icon_130509](https://github.com/XenoProxy/XenoProxy/assets/44860152/048b2262-1fad-4ecf-9c2d-72c5cb6cf9dc)
-![jquery_original_wordmark_logo_icon_146447](https://github.com/XenoProxy/XenoProxy/assets/44860152/b44fd717-a1c0-42b5-bcd1-b6f3bf75b273)
-![Vue js_Logo_2 svg (1)](https://github.com/XenoProxy/XenoProxy/assets/44860152/6ab31d54-25ab-4a0a-831a-f91f69183f6e)
-![sql-server (1)](https://github.com/XenoProxy/XenoProxy/assets/44860152/f3fed209-f3bf-4e64-b353-c5bbe917b5c6)
-![postgresql_logo_icon_170836 (2)](https://github.com/XenoProxy/XenoProxy/assets/44860152/ff517a4a-8ae2-4d97-a39f-212009fbd96c)
 
 
 
