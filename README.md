@@ -14,7 +14,27 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/XenoProxy?theme=dark,unicorn)
 
 
-## My current stack:</br>
+## 🧠 My skills
+
+- 💻 **Backend**: PHP, Laravel, WordPress, WooCommerce, REST API, GraphQL
+- 🧩 **Shopify**: Liquid, Matrixify
+- ⚙️ **DevOps**: Docker, docker-compose,(Linux/Ubuntu), SSH, Git
+- 🌐 **Frontend**: React, Tailwind CSS, Bootstrap, JavaScript, HTML/CSS
+- 🚀 **Next.js & Node.js**: SSR, API Routes, integration
+- 🧪 **CMS & EdTech**: Moodle, WPML, LazyBlocks, Gutenberg-blocks
+
+---
+
+## 🧰 My tools
+
+![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat&logo=shopify&logoColor=white)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38bdf8?style=flat&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white)
 
 ![php_icon_130857](https://user-images.githubusercontent.com/44860152/212623094-0855507b-82dd-4971-b2d1-f26fa8d57e45.png)
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/44860152/212623331-e4308e49-43a4-48fa-9d3d-41a21738956f.png)
