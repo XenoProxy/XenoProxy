@@ -33,6 +33,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588a?style=flat&logo=woocommerce&logoColor=white)
+[![Contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff)
 ![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat&logo=shopify&logoColor=white)
 
