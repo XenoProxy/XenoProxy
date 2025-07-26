@@ -1,29 +1,7 @@
 ## Hi there, My name is Iryna! 👋
 
-### I am PHP developer (Laravel, WordPress, Shopify)
+### I'm Full Stack PHP Developer
 
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenoproxy&theme=radical&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenoproxy&hide_progress=false)
-
-[![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/XenoProxy?theme=dark,unicorn)
-
-
-## 🧠 My skills
-
-- 💻 **Backend**: PHP, Laravel, WordPress, WooCommerce, REST API, GraphQL
-- 🧩 **Shopify**: Liquid, Matrixify
-- ⚙️ **DevOps**: Docker, docker-compose,(Linux/Ubuntu), SSH, Git
-- 🌐 **Frontend**: React, Vue.js, Bootstrap, JavaScript, Tailwind CSS, HTML/CSS
-- 🚀 **Next.js & Node.js**: SSR, API Routes, integration
-- 🧪 **CMS & EdTech**: Moodle, WPML, LazyBlocks, Gutenberg-blocks
-
----
 
 ## 🧰 My tools
 
@@ -38,7 +16,7 @@
 ![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat&logo=shopify&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-00599C?style=flat&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -47,7 +25,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -59,14 +37,22 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+## 🧠 My skills
 
+- 💻 **Backend**: PHP, Laravel, WordPress, WooCommerce, REST API, GraphQL
+- 🧩 **Shopify**: Liquid, Matrixify
+- ⚙️ **DevOps**: Docker, docker-compose,(Linux/Ubuntu), SSH, Git
+- 🌐 **Frontend**: React, Vue.js, Bootstrap, JavaScript, Tailwind CSS, HTML/CSS
+- 🚀 **Next.js & Node.js**: SSR, API Routes, integration
+- 🧪 **CMS & EdTech**: Moodle, WPML, LazyBlocks, Gutenberg-blocks
 
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenoproxy&theme=radical&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)-->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenoproxy&hide_progress=false)
 
+[![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
-
-
-
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/XenoProxy?theme=dark,unicorn)-->
 
 
 <!--
