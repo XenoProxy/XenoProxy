@@ -52,7 +52,7 @@
 
 [![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenoProxy&show_icons=true&theme=tokyonight)
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/XenoProxy?theme=dark,unicorn)-->
 
