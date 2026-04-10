@@ -48,12 +48,11 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenoproxy&theme=radical&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenoProxy&hide_progress=false)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenoProxy&show_icons=true&theme=radical)-->
 
 [![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenoProxy&show_icons=true&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/XenoProxy?theme=dark,unicorn)-->
 
 
