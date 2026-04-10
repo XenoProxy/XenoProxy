@@ -48,7 +48,7 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenoproxy&theme=radical&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenoproxy&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenoProxy&hide_progress=false)
 
 [![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
