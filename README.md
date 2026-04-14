@@ -52,7 +52,6 @@
 
 [![codewars](https://www.codewars.com/users/XenoProxy/badges/large)](https://www.codewars.com/users/XenoProxy)   
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=XenoProxy&theme=burnt-neon)](https://git.io/streak-stats)
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/XenoProxy?theme=dark,unicorn)-->
 
 
